@@ -1,7 +1,9 @@
 Primera linea del archivo.
-
+    Esto se agrego en la rama 1
+    
 Segunda linea del archivo.
-
+    Segundo commit rama 1
+    
 Tercera linea 
 
 Cuarta linea (master)
